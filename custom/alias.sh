@@ -6,7 +6,7 @@ alias ....="cd ../../../"
 alias sshAli='ssh root@47.92.222.162'
 alias gst='git status'
 alias gl='git log'
-alias pwd='pwd|pbcopy'
+alias cpwd='pwd|pbcopy'
 alias grepflict='grep -lr "<<<<<<" .'
 alias grep='grep --color=auto'
 alias sc='screen'
